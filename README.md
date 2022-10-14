@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Oiii eu sou a Ruan Diego, Estudante de engenharia de software na UFC!
+## Hi I'm Ruan Diego, software engineer student of UFC!
 <div align="center">
   <a href="https://github.com/Ruan-Diego">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Diego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
